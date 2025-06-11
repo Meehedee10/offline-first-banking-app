@@ -1,0 +1,11 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0E0B1D;
+  color: #ffffff;
+}
+button {
+  cursor: pointer;
+}
+
